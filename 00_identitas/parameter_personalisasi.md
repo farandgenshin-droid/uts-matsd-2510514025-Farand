@@ -7,14 +7,19 @@ Digit satuan NIM = 5
 
 
 Dua digit terakhir (25) NIM mod 100
-N = 25 /n
+N = 25 
+
 Digit puluhan NIM (N) / 10 
-a = 2 /n
+a = 2 
+
 Digit satuan NIM (5) mod 10
-b = 5 /n
+b = 5 
+
 Konstanta skala data
-(a + b + 1), K = 8 /n
+(a + b + 1), K = 8 
+
 θ₀ (derajat), Sudut awal bilangan kompleks, (a · 30) + (b · 5)
-θ₀ = 60° +  25° = 85° /n
+θ₀ = 60° +  25° = 85° 
+
 α, Learning rate Gradient Descent,0.001 · (b + 1),
-α = 0.006 /n
+α = 0.006 
