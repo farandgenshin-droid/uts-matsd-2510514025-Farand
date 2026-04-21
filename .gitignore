@@ -3,7 +3,15 @@
 .spago
 bower_components
 node_modules
+.asv
 
 # Generated files
 .psci
 output
+
+# Abaikan folder cache Simulink/MATLAB
+slprj/
+sfprj/
+
+# Abaikan file log atau crash (opsional tapi disarankan)
+matlab_crash_dump.*
