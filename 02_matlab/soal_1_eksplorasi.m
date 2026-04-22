@@ -1,4 +1,4 @@
->> % =====================================================
+% =====================================================
 %  UTS Matematika Sains Data — Semester Genap 2025/2026
 %  Soal 1 — Eksplorasi Awal dan Profil Data Transaksi
 %  Nama  : Muhammad Farand Danendra
@@ -40,4 +40,6 @@ hold off;
 % Simpan file PNG
 saveas(gcf, 'Grafik_Penjualan_2510514025.png');
 disp('Grafik telah berhasil disimpan sebagai "Grafik_Penjualan_2510514025.png"');
+
+
 
