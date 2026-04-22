@@ -40,4 +40,3 @@ hold off;
 % Simpan file PNG
 saveas(gcf, 'Grafik_Penjualan_2510514025.png');
 disp('Grafik telah berhasil disimpan sebagai "Grafik_Penjualan_2510514025.png"');
-Tanggal & Waktu Eksekusi: 22-Apr-2026 01:22:01
