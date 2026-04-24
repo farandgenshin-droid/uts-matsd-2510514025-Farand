@@ -4,7 +4,7 @@
 %  Nama  : <Muhammad Farand Danendra> 
 %  NIM   : 2510514025 
 %  Parameter: N=25, a=2, b=5, K=8, theta0=85, alpha=0.006 
-%  Tanggal: 2026-04-23 
+%  Tanggal: 24 April 2026
 % ===================================================== 
 
 disp(['Tanggal & Waktu Eksekusi: ', datestr(now)]);
